@@ -1,0 +1,2 @@
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\obj\Debug\assemblies\TestDroidPdf.dll
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\obj\Debug\assemblies\MuPdfLibrary.dll

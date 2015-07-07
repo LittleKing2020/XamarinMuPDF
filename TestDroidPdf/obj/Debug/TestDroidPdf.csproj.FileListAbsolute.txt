@@ -1,0 +1,14 @@
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\bin\Debug\TestDroidPdf.dll
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\bin\Debug\TestDroidPdf.pdb
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\bin\Debug\TestDroidPdf.TestDroidPdf.apk
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\bin\Debug\TestDroidPdf.TestDroidPdf-Signed.apk
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\bin\Debug\MuPdfLibrary.dll
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\obj\Debug\TestDroidPdf.dll
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\obj\Debug\TestDroidPdf.pdb
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\obj\Debug\android\bin\TestDroidPdf.TestDroidPdf.apk
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\obj\Debug\res\layout\main.xml
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\obj\Debug\res\values\strings.xml
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\obj\Debug\res\drawable\icon.png
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\obj\Debug\R.cs.flag
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\obj\Debug\uploadflags.txt
+c:\temp\KcDev\TestDroidPdf\TestDroidPdf\obj\Debug\TestDroidPdf.csprojResolveAssemblyReference.cache

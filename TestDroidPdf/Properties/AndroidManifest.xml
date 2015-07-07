@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="TestDroidPdf.TestDroidPdf" android:versionCode="1" android:versionName="1.0">
+	<uses-sdk />
+	<application android:label="TestDroidPdf" android:icon="@drawable/Icon">
+		<activity android:name="com.artifex.mupdfdemo.MuPDFActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<data android:mimeType="application/vnd.ms-xpsdocument" />
+			</intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<data android:mimeType="application/pdf" />
+			</intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<data android:mimeType="application/x-cbz" />
+			</intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<category android:name="android.intent.category.BROWSABLE" />
+				<data android:scheme="file" />
+				<data android:mimeType="*/*" />
+				<data android:pathPattern=".*\\.xps" />
+				<data android:host="*" />
+			</intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<category android:name="android.intent.category.BROWSABLE" />
+				<data android:scheme="file" />
+				<data android:mimeType="*/*" />
+				<data android:pathPattern=".*\\.pdf" />
+				<data android:host="*" />
+			</intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<category android:name="android.intent.category.BROWSABLE" />
+				<data android:scheme="file" />
+				<data android:mimeType="*/*" />
+				<data android:pathPattern=".*\\.cbz" />
+				<data android:host="*" />
+			</intent-filter>
+		</activity>
+		<activity android:name="OutlineActivity"></activity>
+	</application>
+</manifest>

@@ -1,0 +1,4 @@
+TestDroidPdf.MainActivity, TestDroidPdf;md51c395849d1c5e01d645b9aabbdd63611.MainActivity
+TestDroidPdf.MainActivity, TestDroidPdf, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51c395849d1c5e01d645b9aabbdd63611.MainActivity
+TestDroidPdf.MainActivity;md51c395849d1c5e01d645b9aabbdd63611.MainActivity
+testdroidpdf.MainActivity;md51c395849d1c5e01d645b9aabbdd63611.MainActivity
