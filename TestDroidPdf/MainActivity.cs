@@ -13,7 +13,7 @@ using File = Java.IO.File;
 
 namespace TestDroidPdf
 {
-    [Activity(Label = "TestDroidPdf", MainLauncher = true, Icon = "@drawable/icon")]
+    //[Activity(Label = "TestDroidPdf", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         int count = 1;
@@ -27,13 +27,7 @@ namespace TestDroidPdf
 
             // Get our button from the layout resource,
             // and attach an event to it
-            Button button = FindViewById<Button>(Resource.Id.MyButton);
 
-            button.Click += delegate { 
-                button.Text = string.Format("{0} clicks!", count++); };
-
-
-            
             var file = fileFromAsset(this, "test.pdf");
             
             //var uri = Android.Net.Uri.FromFile(new File("file:///android_asset/test.pdf"));
